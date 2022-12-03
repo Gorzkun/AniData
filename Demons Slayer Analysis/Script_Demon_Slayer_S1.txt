@@ -1,4 +1,4 @@
-Index;Season;Episode;Episode_name;Character_name;Character_race;Gender;Dialog
+Index;Season;Episode;Episode_name;Character_name;Character_race;Gender;Dialogue
 1;1;1;Cruelty;Tanjiro;Human;Male;How? How did this happen? Nezuko, don't die! Don't die on me! I'm gonna save you no matter what! I won't let you die! I swear your big brother will save you no matter what!
 2;1;1;Cruelty;Kie Kamado;Human;Female;Tanjiro? Your face is covered in soot. Come over here. It's dangerous with all this snow. You don't have to go, you know.
 3;1;1;Cruelty;Tanjiro;Human;Male;Well, I want everyone to eat their fill on New Year's, so I'm gonna sell as much charcoal as I can.
