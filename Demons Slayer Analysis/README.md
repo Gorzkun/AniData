@@ -1,1 +1,0 @@
-Demos Slayer script analysis.
